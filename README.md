@@ -9,7 +9,7 @@ Tingginya biaya operasional retur dan anjloknya kepuasan pelanggan akibat jadwal
 Analisis menggunakan data dari tiga tabel format csv, yaitu:
 - dekoruma_orders.csv = Data transaksi utama, mengandung 300.000 baris 9 kolom, dimana 1 baris adalah 1 transaksi/order
 - dekoruma_products.csv = Data produk, mengandung 1.500 baris 4 kolom, setiap baris adalah 1 SKU/produk
-- dekoruma_stores.csv = Data toko/channel type, mengandung 40 baris 3 kolom, 38 baris merupakan toko fisik dan 2 lain nya adalah aplikasi (app) dan website
+- dekoruma_stores.csv = Data toko/channel type, mengandung 40 baris 3 kolom, 38 baris merupakan toko fisik dan 2 lain nya adalah aplikasi (app) dan website  
 Setelah dilakukan data cleansing, masing-masing tabel disimpan sebagai:
 - dekoruma_orders_clean.csv
 - dekoruma_products_clean.csv
